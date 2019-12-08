@@ -1,0 +1,4 @@
+#Mon Dec 09 00:43:12 IST 2019
+base.0=C\:\\Users\\PC\\Downloads\\Flight-Booking-master\\Flight-Booking-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
